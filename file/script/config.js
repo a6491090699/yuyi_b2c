@@ -1,0 +1,1 @@
+var DTPath = "http://mp.jiroukong.com/";var DTMob = "";var SKPath = "http://mp.jiroukong.com/skin/default/";var MEPath = "http://mp.jiroukong.com/member/";var DTEditor = "fckeditor";var CKDomain = "";var CKPath = "/";var CKPrex = "cwr_";
